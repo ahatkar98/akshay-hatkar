@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-cout<<"aksk"<<endl;
+cout<<"akskkhkhkhk"<<endl;
 }
